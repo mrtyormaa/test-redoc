@@ -1,0 +1,11 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": true,
+    "importedSpec": "swagger.json",
+    "name": "Diamond Reports API",
+    "repo": "mrtyormaa/test-redoc",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": false
+  }
+}
